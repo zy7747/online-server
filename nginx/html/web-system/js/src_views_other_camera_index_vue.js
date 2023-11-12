@@ -1,0 +1,62 @@
+"use strict";
+/*
+ * ATTENTION: The "eval" devtool has been used (maybe by default in mode: "development").
+ * This devtool is neither made for production nor for readable output files.
+ * It uses "eval()" calls to create a separate source file in the browser devtools.
+ * If you are trying to read the output file, select a different devtool (https://webpack.js.org/configuration/devtool/)
+ * or disable the default devtool with "devtool: false".
+ * If you are looking for production-ready output files, see mode: "production" (https://webpack.js.org/configuration/mode/).
+ */
+(self["webpackChunkweb"] = self["webpackChunkweb"] || []).push([["src_views_other_camera_index_vue"],{
+
+/***/ "./src/views/other/camera/index.vue":
+/*!******************************************!*\
+  !*** ./src/views/other/camera/index.vue ***!
+  \******************************************/
+/***/ (function(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _index_vue_vue_type_template_id_3a8b9621___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./index.vue?vue&type=template&id=3a8b9621& */ \"./src/views/other/camera/index.vue?vue&type=template&id=3a8b9621&\");\n/* harmony import */ var _index_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./index.vue?vue&type=script&lang=js& */ \"./src/views/other/camera/index.vue?vue&type=script&lang=js&\");\n/* harmony import */ var _node_modules_vue_vue_loader_v15_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! !../../../../node_modules/@vue/vue-loader-v15/lib/runtime/componentNormalizer.js */ \"./node_modules/@vue/vue-loader-v15/lib/runtime/componentNormalizer.js\");\n\n\n\n\n\n/* normalize component */\n;\nvar component = (0,_node_modules_vue_vue_loader_v15_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__[\"default\"])(\n  _index_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__[\"default\"],\n  _index_vue_vue_type_template_id_3a8b9621___WEBPACK_IMPORTED_MODULE_0__.render,\n  _index_vue_vue_type_template_id_3a8b9621___WEBPACK_IMPORTED_MODULE_0__.staticRenderFns,\n  false,\n  null,\n  null,\n  null\n  \n)\n\n/* hot reload */\nif (false) { var api; }\ncomponent.options.__file = \"src/views/other/camera/index.vue\"\n/* harmony default export */ __webpack_exports__[\"default\"] = (component.exports);\n\n//# sourceURL=webpack://web/./src/views/other/camera/index.vue?");
+
+/***/ }),
+
+/***/ "./src/views/other/camera/index.vue?vue&type=script&lang=js&":
+/*!*******************************************************************!*\
+  !*** ./src/views/other/camera/index.vue?vue&type=script&lang=js& ***!
+  \*******************************************************************/
+/***/ (function(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _node_modules_babel_loader_lib_index_js_clonedRuleSet_40_use_0_node_modules_vue_vue_loader_v15_lib_index_js_vue_loader_options_index_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-40.use[0]!../../../../node_modules/@vue/vue-loader-v15/lib/index.js??vue-loader-options!./index.vue?vue&type=script&lang=js& */ \"./node_modules/babel-loader/lib/index.js??clonedRuleSet-40.use[0]!./node_modules/@vue/vue-loader-v15/lib/index.js??vue-loader-options!./src/views/other/camera/index.vue?vue&type=script&lang=js&\");\n /* harmony default export */ __webpack_exports__[\"default\"] = (_node_modules_babel_loader_lib_index_js_clonedRuleSet_40_use_0_node_modules_vue_vue_loader_v15_lib_index_js_vue_loader_options_index_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__[\"default\"]); \n\n//# sourceURL=webpack://web/./src/views/other/camera/index.vue?");
+
+/***/ }),
+
+/***/ "./src/views/other/camera/index.vue?vue&type=template&id=3a8b9621&":
+/*!*************************************************************************!*\
+  !*** ./src/views/other/camera/index.vue?vue&type=template&id=3a8b9621& ***!
+  \*************************************************************************/
+/***/ (function(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   render: function() { return /* reexport safe */ _node_modules_babel_loader_lib_index_js_clonedRuleSet_40_use_0_node_modules_vue_vue_loader_v15_lib_loaders_templateLoader_js_ruleSet_1_rules_3_node_modules_vue_vue_loader_v15_lib_index_js_vue_loader_options_index_vue_vue_type_template_id_3a8b9621___WEBPACK_IMPORTED_MODULE_0__.render; },\n/* harmony export */   staticRenderFns: function() { return /* reexport safe */ _node_modules_babel_loader_lib_index_js_clonedRuleSet_40_use_0_node_modules_vue_vue_loader_v15_lib_loaders_templateLoader_js_ruleSet_1_rules_3_node_modules_vue_vue_loader_v15_lib_index_js_vue_loader_options_index_vue_vue_type_template_id_3a8b9621___WEBPACK_IMPORTED_MODULE_0__.staticRenderFns; }\n/* harmony export */ });\n/* harmony import */ var _node_modules_babel_loader_lib_index_js_clonedRuleSet_40_use_0_node_modules_vue_vue_loader_v15_lib_loaders_templateLoader_js_ruleSet_1_rules_3_node_modules_vue_vue_loader_v15_lib_index_js_vue_loader_options_index_vue_vue_type_template_id_3a8b9621___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-40.use[0]!../../../../node_modules/@vue/vue-loader-v15/lib/loaders/templateLoader.js??ruleSet[1].rules[3]!../../../../node_modules/@vue/vue-loader-v15/lib/index.js??vue-loader-options!./index.vue?vue&type=template&id=3a8b9621& */ \"./node_modules/babel-loader/lib/index.js??clonedRuleSet-40.use[0]!./node_modules/@vue/vue-loader-v15/lib/loaders/templateLoader.js??ruleSet[1].rules[3]!./node_modules/@vue/vue-loader-v15/lib/index.js??vue-loader-options!./src/views/other/camera/index.vue?vue&type=template&id=3a8b9621&\");\n\n\n//# sourceURL=webpack://web/./src/views/other/camera/index.vue?");
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-40.use[0]!./node_modules/@vue/vue-loader-v15/lib/index.js??vue-loader-options!./src/views/other/camera/index.vue?vue&type=script&lang=js&":
+/*!*********************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib/index.js??clonedRuleSet-40.use[0]!./node_modules/@vue/vue-loader-v15/lib/index.js??vue-loader-options!./src/views/other/camera/index.vue?vue&type=script&lang=js& ***!
+  \*********************************************************************************************************************************************************************************************************/
+/***/ (function(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var core_js_modules_web_url_search_params_delete_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! core-js/modules/web.url-search-params.delete.js */ \"./node_modules/core-js/modules/web.url-search-params.delete.js\");\n/* harmony import */ var core_js_modules_web_url_search_params_delete_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(core_js_modules_web_url_search_params_delete_js__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var core_js_modules_web_url_search_params_has_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! core-js/modules/web.url-search-params.has.js */ \"./node_modules/core-js/modules/web.url-search-params.has.js\");\n/* harmony import */ var core_js_modules_web_url_search_params_has_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(core_js_modules_web_url_search_params_has_js__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var core_js_modules_web_url_search_params_size_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! core-js/modules/web.url-search-params.size.js */ \"./node_modules/core-js/modules/web.url-search-params.size.js\");\n/* harmony import */ var core_js_modules_web_url_search_params_size_js__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(core_js_modules_web_url_search_params_size_js__WEBPACK_IMPORTED_MODULE_2__);\n\n\n\n/* harmony default export */ __webpack_exports__[\"default\"] = ({\n  data() {\n    return {\n      flag: true,\n      cxt: null,\n      imgUrl: \"\"\n    };\n  },\n  mounted() {\n    this.cxt = this.$refs.canvas.getContext(\"2d\");\n  },\n  methods: {\n    videotape() {\n      const video = this.$refs.video;\n      navigator.mediaDevices.getUserMedia({\n        audio: false,\n        //是否录制音频\n        video: true //是否录制视频\n      }).then(stream => {\n        //开始视频\n        video.srcObject = stream;\n      }).catch(err => {\n        alert(\"error: \" + err.message);\n      });\n    },\n    //截图事件\n    screenshot() {\n      const video = this.$refs.video;\n      const canvas = this.$refs.canvas;\n      //画布开始绘制\n      this.cxt.drawImage(video, 0, 0, canvas.width, canvas.height);\n      //canvas转图片保存\n      this.$refs.canvas.toBlob(blob => {\n        let url = URL.createObjectURL(blob);\n        //获取到生成的url\n        this.imgUrl = url;\n      });\n    }\n  }\n});\n\n//# sourceURL=webpack://web/./src/views/other/camera/index.vue?./node_modules/babel-loader/lib/index.js??clonedRuleSet-40.use%5B0%5D!./node_modules/@vue/vue-loader-v15/lib/index.js??vue-loader-options");
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-40.use[0]!./node_modules/@vue/vue-loader-v15/lib/loaders/templateLoader.js??ruleSet[1].rules[3]!./node_modules/@vue/vue-loader-v15/lib/index.js??vue-loader-options!./src/views/other/camera/index.vue?vue&type=template&id=3a8b9621&":
+/*!*****************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib/index.js??clonedRuleSet-40.use[0]!./node_modules/@vue/vue-loader-v15/lib/loaders/templateLoader.js??ruleSet[1].rules[3]!./node_modules/@vue/vue-loader-v15/lib/index.js??vue-loader-options!./src/views/other/camera/index.vue?vue&type=template&id=3a8b9621& ***!
+  \*****************************************************************************************************************************************************************************************************************************************************************************************************/
+/***/ (function(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   render: function() { return /* binding */ render; },\n/* harmony export */   staticRenderFns: function() { return /* binding */ staticRenderFns; }\n/* harmony export */ });\nvar render = function render() {\n  var _vm = this,\n    _c = _vm._self._c;\n  return _c(\"div\", [_c(\"div\", {\n    staticClass: \"wrapper\"\n  }, [_c(\"video\", {\n    ref: \"video\",\n    attrs: {\n      autoplay: \"\",\n      playsinline: \"\"\n    }\n  }), _c(\"button\", {\n    on: {\n      click: _vm.videotape\n    }\n  }, [_vm._v(\"开启摄像头\")]), _c(\"button\", {\n    on: {\n      click: _vm.screenshot\n    }\n  }, [_vm._v(\"截图\")]), _c(\"canvas\", {\n    ref: \"canvas\"\n  })])]);\n};\nvar staticRenderFns = [];\nrender._withStripped = true;\n\n\n//# sourceURL=webpack://web/./src/views/other/camera/index.vue?./node_modules/babel-loader/lib/index.js??clonedRuleSet-40.use%5B0%5D!./node_modules/@vue/vue-loader-v15/lib/loaders/templateLoader.js??ruleSet%5B1%5D.rules%5B3%5D!./node_modules/@vue/vue-loader-v15/lib/index.js??vue-loader-options");
+
+/***/ })
+
+}]);

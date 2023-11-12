@@ -1,0 +1,1 @@
+import{_ as o,r as s,c as t,b as _,o as c}from"./index-15e2bd89.js";const n={},a={class:"shorts"};function r(d,i){const e=s("VideoPage");return c(),t("div",a,[_(e,{type:"shorts"})])}const l=o(n,[["render",r],["__scopeId","data-v-6b9908b8"]]);export{l as default};
